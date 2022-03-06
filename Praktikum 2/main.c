@@ -1,3 +1,5 @@
+/*Nama: Zaeri Haikal Rabbani*/
+/*NIM: 24060121140159*/
 /*Nama File: bujursangkar.c*/
 /*Deskripsi: menghitung luas bujur sangkar*/
 #include <stdio.h> /*Header file*/
