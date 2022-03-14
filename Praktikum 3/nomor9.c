@@ -14,7 +14,7 @@ int main()
     int bulan;
 
     printf("masukkan bulan : ");
-    scanf("%d",&hari);
+    scanf("%d",&bulan);
 
     switch(bulan){
         case 1 :
